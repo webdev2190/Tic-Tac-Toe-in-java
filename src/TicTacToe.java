@@ -148,7 +148,3 @@ public class TicTacToe {
          return "";
     }
 }
-
-
-//Project youtube Link
-//https://www.youtube.com/watch?v=gQb3dE-y1S4
